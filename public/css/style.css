@@ -196,7 +196,7 @@ body {
   display: flex;
 }
 .container-master .container__myself {
-  background: url("../image/background.jpg") center/cover;
+  background: url("../image/fondo.jpg") center/cover;
   color: #fff;
   height: 100vh;
   position: relative;
